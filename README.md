@@ -6,6 +6,7 @@ This paper discusses the effects of policies that were introduced, passed, and b
 
 # How to Recreate the Project
 The data used in this project comes from: https://data.ca.gov/dataset/percent-of-household-overcrowding-1-0-persons-per-room-and-severe-overcrowding-1-5-persons-per-
+
 It is a public dataset that comes from California's Open Data Portal.
 
 In my project, I only included the counties of San Francisco and Santa Clara, but by making some changes into the code, can analyze different counties.
