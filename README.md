@@ -1,2 +1,2 @@
 # 2008-Housing-Crisis-Policy-Analysis-BayArea
-UCSC ECON 114 Final Project
+This is my UCSC ECON 114 Final Project on the 2008 Housing Crisis Poilicy Analysis Report that is focused on two counties in the Bay Area: San Francisco and Santa Clara. 
